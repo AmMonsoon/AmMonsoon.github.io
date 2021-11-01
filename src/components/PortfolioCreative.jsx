@@ -56,7 +56,7 @@ const Portfolio = () => {
           <div className="portfolio_filter">
             <Tabs>
               <TabList>
-                <Tab>All</Tab>
+                {/* <Tab>All</Tab> */}
                 {/* <Tab>Vimeo</Tab> */}
                 {/* <Tab>Youtube</Tab> */}
                 <Tab>Projects</Tab>

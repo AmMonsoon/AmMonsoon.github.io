@@ -21,6 +21,7 @@ const Home = () => {
             <p className="job">
               Hi there! I'm a creative fullstack software engineer who enjoys challenging problems, building apps, hiking , and trying out new places to eat!
             </p>
+            <button>Resume</button>
             {/* END JOB */}
             <Social />
           </div>
